@@ -1,2 +1,2 @@
 # Assignment
-MasterAemmi
+Master Aemmi's class exercises.
